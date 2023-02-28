@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Björn Dammann and I do web stuff for [https://roggeundpott.de/](ROGGE & POTT Design Group). I run a few sideprojects, learn more on my personal website [https://bjoern-d.de/](bjoern-d.de).
+
 
 <!--
 **bej-soan/bej-soan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
