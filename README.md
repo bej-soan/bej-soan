@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Björn Dammann and I do web stuff for [https://roggeundpott.de/](ROGGE & POTT Design Group). I run a few sideprojects, learn more on my personal website [https://bjoern-d.de/](bjoern-d.de).
+### Hi there 👋 I'm Björn Dammann and I do web stuff for [ROGGE & POTT Design Group](https://roggeundpott.de/). I run a few sideprojects, learn more on my personal website [bjoern-d.de](https://bjoern-d.de/).
 
 
 <!--
